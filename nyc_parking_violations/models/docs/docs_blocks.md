@@ -2,6 +2,10 @@
 Code representing the specific parking violation.
 {% enddocs %}
 
+{% docs daim_code %}
+DAIM CODE FOR REAL
+{% enddocs %}
+
 {% docs definition %}
 Description of the violation for a respective code.
 {% enddocs %}

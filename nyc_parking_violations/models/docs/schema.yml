@@ -3,7 +3,7 @@ models:
     description: Raw data representing the violation codes and their fees.
     columns:
       - name: violation_code
-        description: '{{ doc("violation_code") }}'
+        description: '{{ doc("daim_code") }}'
       - name: definition
         description: '{{ doc("definition") }}'
       - name: manhattan_96th_st_below
